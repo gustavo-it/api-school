@@ -17,5 +17,8 @@
     "nodemon": "^3.1.7",
     "npm": "^10.9.0",
     "sucrase": "^3.35.0"
+  },
+  "dependencies": {
+    "express": "^4.21.1"
   }
 }
